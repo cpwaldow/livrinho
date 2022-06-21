@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cpwaldow.github.io/livrinho/static/css/main.b1825785.css",
+    "main.js": "/cpwaldow.github.io/livrinho/static/js/main.a659f577.js",
+    "static/media/renan.png": "/cpwaldow.github.io/livrinho/static/media/renan.65a6d7c7616f4d2a1685.png",
+    "static/media/livrinho.mp3": "/cpwaldow.github.io/livrinho/static/media/livrinho.694a173cc20e788995bf.mp3",
+    "index.html": "/cpwaldow.github.io/livrinho/index.html",
+    "main.b1825785.css.map": "/cpwaldow.github.io/livrinho/static/css/main.b1825785.css.map",
+    "main.a659f577.js.map": "/cpwaldow.github.io/livrinho/static/js/main.a659f577.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1825785.css",
+    "static/js/main.a659f577.js"
+  ]
+}
